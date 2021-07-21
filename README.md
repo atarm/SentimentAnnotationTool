@@ -1,7 +1,9 @@
 # SentimentAnnotationTool
 Support Annotation.  
 !!Bug catching is minimal.!!  
-Negative = 0, Neutral = 1, Positive = 2
+Negative = 0, Neutral = 1, Positive = 2  
+  
+EXE Download : https://github.com/atarm/SentimentAnnotationTool/raw/main/SentimentAnotationTool.exe
 ## 使い方
 ![sample](https://user-images.githubusercontent.com/41828628/126456637-a626d024-89f6-4fe7-88e6-f3a74ac7a368.png)
 1. Openをクリックして0列目にSentenceが入力されたCSVファイルを選択
