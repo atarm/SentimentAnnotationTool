@@ -20,4 +20,4 @@ EXE Download : https://github.com/atarm/SentimentAnnotationTool/raw/main/Sentime
 ## 確認しているバグ
 - 1列目が空のファイルを開く時にエラー
 - Prevや格ラベルボタンを素早く連続的に押下するとエラー  
-ファルが壊れると言うこともなく、実用上は問題ないのでとりあえず放置
+### ファイルが壊れると言うこともなく、実用上は問題ないのでとりあえず放置
