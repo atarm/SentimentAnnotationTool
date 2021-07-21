@@ -1,0 +1,10 @@
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\bin\Debug\SentimentAnotationTool.exe.config
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\bin\Debug\SentimentAnotationTool.exe
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\bin\Debug\SentimentAnotationTool.pdb
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.csproj.AssemblyReference.cache
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.Form1.resources
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.Properties.Resources.resources
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.csproj.GenerateResource.cache
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.csproj.CoreCompileInputs.cache
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.exe
+C:\Users\g5120\source\repos\SentimentAnotationTool\SentimentAnotationTool\obj\Debug\SentimentAnotationTool.pdb
