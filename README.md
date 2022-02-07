@@ -1,6 +1,6 @@
 # SentimentAnnotationTool
 Support Annotation.  
-!!Bug catching is minimal.!!  
+!Bug catching is minimal.
 Negative = 0, Neutral = 1, Positive = 2  
   
 EXE Download : https://github.com/atarm/SentimentAnnotationTool/raw/main/SentimentAnotationTool.exe
